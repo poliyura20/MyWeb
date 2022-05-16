@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\poliy\Downloads\4</_PublishTargetUrl>
+    <History>True|2022-05-13T13:45:12.1448481Z;True|2022-05-12T03:59:20.5040694+03:00;True|2022-05-12T03:21:17.5675963+03:00;True|2022-05-12T02:42:10.5444974+03:00;True|2022-05-12T00:28:32.9501406+03:00;True|2022-05-12T00:27:40.3230586+03:00;True|2022-05-12T00:25:31.6828915+03:00;True|2022-05-12T00:12:59.2164285+03:00;</History>
+  </PropertyGroup>
+</Project>
